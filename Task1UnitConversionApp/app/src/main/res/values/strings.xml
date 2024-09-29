@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task 1 Unit Conversion App</string>
+    <string name="kilometers">kilometers</string>
+    <string name="meters">meters</string>
+    <string name="centimeter">centimeters</string>
+    <string name="millimetre">millimetre</string>
+    <string name="nanometer">nanometer</string>
+    <string name="mile">mile</string>
+    <string name="yard">yard</string>
+    <string name="foot">foot</string>
+    <string name="inches">inches</string>
+    <string name="micrometers">macrometer</string>
+</resources>
